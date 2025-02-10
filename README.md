@@ -11,4 +11,4 @@ You can test it using this reference  [SMD resistor code calculator online](http
 
 
 * EIA SMD RESISTOR CODE SCHEME.
-![alt tag](https://raw.githubusercontent.com/hasanshofan/smd-resistors-code-calc/main/images/EIA SMD RESISTOR CODE SCHEME.png "EIA SMD RESISTOR CODE SCHEME")
+![alt tag](https://raw.githubusercontent.com/hasanshofan/smd-resistors-code-calc/main/images/EIA-SMD-RESISTOR-CODE-SCHEME.png "EIA SMD RESISTOR CODE SCHEME")
